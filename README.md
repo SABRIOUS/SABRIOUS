@@ -7,6 +7,7 @@
 -----
 
 ## 📈 Projects
+- A player from the Middle East wants to play in Europe. [🗃](https://github.com/SABRIOUS/soccer)  
 - Extract From Log Files Using Regular Expression [🗃](https://github.com/SABRIOUS/Extract_Data_With_Regular_Expression) 
 - Google Data Analytics Capstone [🗃](https://github.com/SABRIOUS/Google_Data_Analysis_Capstone) 
 - Data Wrangling [🗃](https://github.com/SABRIOUS/Wrangling_Data_Udacity)
