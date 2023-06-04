@@ -1,6 +1,6 @@
 <h1>Hi 😄 ,I'm Ahmed Sabry</h1>
 
-- 🦸  A Data Tutor At Udacity & ٍ Sales Analyst and a Former Warehouse Keeper.
+- 🦸  A Data Tutor At Udacity & Sales Analyst and a Former Warehouse Keeper.
 - 🧠 I’m interested in Problem Solving and Data Analysis & Engineer.
 - 👨🏻‍💻 I'm currently learning Programming and building projects with python.
 
